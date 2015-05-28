@@ -1,0 +1,29 @@
+{
+  "author": "Talles L <talleslasmar@gmail.com>",
+  "bugs": {
+    "url": "https://github.com/tallesl/wagner-fischer/issues"
+  },
+  "description": "Wagner–Fischer algorithm in JavaScript",
+  "homepage": "https://github.com/tallesl/wagner-fischer",
+  "keywords": [
+    "algorithm",
+    "calculate",
+    "comparison",
+    "distance",
+    "edit",
+    "fischer",
+    "string",
+    "wagner"
+  ],
+  "license": "Fair",
+  "main": "./lib/wagner-fischer.js",
+  "name": "wagner-fischer",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tallesl/wagner-fischer.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.0"
+}
