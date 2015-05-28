@@ -23,7 +23,12 @@
     "url": "https://github.com/tallesl/wagner-fischer.git"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "mocha"
   },
-  "version": "1.0.0"
+  "version": "1.0.0",
+  "devDependencies": {
+    "coveralls": "^2.11.2",
+    "istanbul": "^0.3.14",
+    "mocha": "^2.2.5"
+  }
 }
